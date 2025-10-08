@@ -54,17 +54,22 @@ portfolio/
 💡 Features
 
 ✅ Sleek, responsive design adaptable to all screens
+
 ✅ Interactive navigation and animated transitions
 ✅ Dynamic display of skills and project showcases
 ✅ Contact form for easy communication
+
 ✅ Integrated with GitHub Pages and Vercel for global access
+
 ✅ Fast load time with Vite’s build optimization
 
 
 
 🧰 Skills & Expertise
 
+
 💻 Web Development
+
 
 MERN Stack (MongoDB, Express, React, Node.js)
 
@@ -75,21 +80,29 @@ Frontend design and responsive layouts
 
 🗄️ Database Management
 
+
 MongoDB, MySQL, PostgreSQL
+
 
 Data modeling, schema design, and performance optimization
 
 
+
 🎧 Creative Production
+
 
 Video and Audio Editing
 
+
 Studio Recording & Mixing
+
 
 Visual content creation and branding
 
 
+
 ⚙️ Additional Skills
+
 
 Networking fundamentals
 
@@ -101,6 +114,7 @@ Technical writing & documentation
 
 
 🎨 Creative Vision
+
 
 I believe every line of code should tell a story — one that connects logic with emotion.
 This portfolio isn’t just a resume; it’s a living canvas that captures my growth as both a developer and a creator.
@@ -115,6 +129,7 @@ Whether I’m building a web app, designing an interface, or producing music, my
 
 📤 Deployment
 
+
 This portfolio is:
 
 Developed with React (Vite)
@@ -128,21 +143,31 @@ Live and optimized on Vercel under reubennguni.vercel.app
 📫 Contact
 
 📧 Email: reubennngunijr@gmail.com
+
 🌍 Portfolio: reubennguni.vercel.app
+
 💬 LinkedIn / GitHub: 
 
 🧭 Future Improvements
 
+
 🛠️ Add downloadable resume feature
+
 🛠️ Include dark/light theme toggle
+
 🛠️ Add animations using Framer Motion
+
 🛠️ Integrate blog or project CMS (MERN-powered)
+
 🛠️ Include testimonials and client feedback section
+
 
 
 
 🪄 Author
 
+
 👨‍💻 Reuben Ng'uni
+
 
 > “Driven by passion, powered by code, and inspired by creativity.”
