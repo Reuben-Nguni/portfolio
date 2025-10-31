@@ -4,19 +4,19 @@ import { Card, Button } from "react-bootstrap";
 const projectList = [
   {
     title: "KNU MATE",
-    description: "SCHOO APP FOR PAST PEPERS AND MATERIALS.",
+    description: "SCHOOL APP FOR PAST PEPERS AND MATERIALS.",
     viewLink: "https://github.com/Reuben-Nguni?tab=repositories",
     visitLink: "https://knu-mate.vercel.app/",
   },
   {
-    title: "BOLG",
+    title: "MUSIC BLOG",
     description: "a record lebles personal blog for music and videos etc.",
     viewLink: "https://github.com/Reuben-Nguni?tab=repositories",
-    visitLink: "https://newgernarationmusic.vercel.app/",
+    visitLink: "https://newgernerationmusic.vercel.app/",
   },
   {
     title: "PRODUCERS BLOG",
-    description: "Interface to view and manage CCTV feeds and alerts.",
+    description: "Blog Sepcific for a producer.",
     viewLink: "https://github.com/Reuben-Nguni?tab=repositories",
     visitLink: "https://benthewaveleader.vercel.app/",
   },
