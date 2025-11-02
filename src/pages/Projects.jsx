@@ -10,13 +10,13 @@ const projectList = [
   },
   {
     title: "MUSIC BLOG",
-    description: "a record lebles personal blog for music and videos etc.",
+    description: " Web app for music and videos etc.",
     viewLink: "https://github.com/Reuben-Nguni?tab=repositories",
     visitLink: "https://newgernerationmusic.vercel.app/",
   },
   {
     title: "PRODUCERS BLOG",
-    description: "Blog Sepcific for a producer.",
+    description: " A web app blog Sepcific for a producer.",
     viewLink: "https://github.com/Reuben-Nguni?tab=repositories",
     visitLink: "https://benthewaveleader.vercel.app/",
   },
@@ -46,7 +46,7 @@ export default function Projects() {
                     className="flex-fill"
                     style={{ fontWeight: "600" }}
                   >
-                    View
+                    View Codes
                   </Button>
                   <Button
                     variant="outline-success"
